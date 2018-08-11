@@ -1,0 +1,42 @@
+length
+% de numeros "em sequencia"
+--quantidade numeros negativos
+% de numeros em sequencia 2 a 2
+desvio padrao
+
+submeter 3 ficheiros destas metricas
+ver qual e a melhor 
+tentar conjugar as 2 melhores
+
+
+separar em chunks por tamanhos
+
+
+correr mergesort/heapsort numa sample
+
+range
+
+
+
+crips-dm
+	business understanding
+	data understanding
+	data preparation
+	modeling + evaluation
+		Fs
+		algoritmos
+		parameter tunning
+			grid search
+		under sampling (da classe maioritaria)
+			
+			
+distribuicao:
+
+		H		M
+10		1		1412
+100		565		834
+1000	1382	89
+10000	750		624
+100000	76		1335
+1000000	4		1382
+

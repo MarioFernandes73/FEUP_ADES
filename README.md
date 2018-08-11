@@ -13,5 +13,11 @@ In this repository there is the practical assignment of this course in the lecti
 
 Specifically on this repository, a small example of the .csv are shown, as well as pictures of the models used on RapidMiner as well as python scripts used to prepare the data for the model.
 
+  *  chunks folder contains examples of the raw files given, 1 for training the model, 1 for corresponding the best algorithm for the training examples and 1 file to apply the model.
+  *  deliverable_examples folder contains 2 files with raw data from the model output and 1 file parsed to be delivered.
+  *  models folder contains pictures of the some of the models used.
+  *  scripts folder contains all scripts and notes used during the project.
+  *  presentation folder contains the presentation/report delivered.
+
 Credits:
 * [Mário Fernandes](https://github.com/MarioFernandes73)
